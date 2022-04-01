@@ -118,3 +118,13 @@ footer {
         display: inline; 
     }
 }
+
+
+@media screen and (max-width: 770px){
+    header nav ul {
+        display:inline
+    }
+    header nav {
+        display:inline
+    }
+}
